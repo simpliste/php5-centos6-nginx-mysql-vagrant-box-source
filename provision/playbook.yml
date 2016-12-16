@@ -6,12 +6,7 @@
   roles:
     - common
     - repo_install
-    - capistrano
-    - php7
-    - nginx
-    - beanstalkd
+    - php5
     - composer
+    - nginx
     - bash
-    - java
-    - elasticsearch
-    - kibana
