@@ -1,0 +1,23 @@
+---
+php_packages:
+  - php56w
+  - php56w-opcache
+  - php56w-fpm
+  - php56w-cli
+  - php56w-common
+  - php56w-devel
+  - php56w-gd
+  - php56w-intl
+  - php56w-mbstring
+  - php56w-mcrypt
+  - php56w-mysqlnd
+  - php56w-pdo
+  - php56w-pear
+  - php56w-pecl-imagick
+  - php56w-pecl-xdebug
+  - php56w-soap
+  - php56w-xml
+  - php56w-xmlrpc
+
+extension_build_directory: /opt
+extension_modules_folder: /usr/lib64/php/modules
