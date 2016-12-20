@@ -8,4 +8,5 @@
     - repo_install
     - php5
     - nginx
+    - mysql
     - bash
