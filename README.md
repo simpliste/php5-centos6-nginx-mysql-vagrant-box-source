@@ -1,16 +1,18 @@
 # php5-centos-nginx-vagrant-box-source
 
-Source environment for my [php5-centos-nginx-msqyl vagrant box](https://atlas.hashicorp.com/ajnijland/boxes/php5-centos-nginx-msqyl/versions/0.1.0). Provisioned using Ansible.
+Source environment for my [php5-centos-nginx-msqyl vagrant box](https://atlas.hashicorp.com/ajnijland/boxes/php5-centos-nginx-mysql). Provisioned using Ansible.
 
 ### Pre-reqs
 
 * [Ansible](http://docs.ansible.com/ansible/index.html)
 
 ### Versions
-* CentOS release 6.8 (Final)
-* Nginx 1.10.2
-* PHP 5.6.29
-* MySql 5.6.33
+> Basebox:centos/6 1703.01
+
+* CentOS release 6.9 (Final)
+* Nginx 1.12
+* PHP 5.6.30
+* MySQL 5.6.33
 
 ### Instructions
 
